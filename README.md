@@ -12,7 +12,7 @@
 
 0차 모임 (2024년 1월 3일)
 
-
+<img width="1433" alt="스크린샷 2024-01-03 오후 9 15 19" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/0c88b03b-200b-4fff-9eb8-0f59b171c499"> 
 
 1차 모임 (2024년 1월 8일)
 
