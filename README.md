@@ -10,6 +10,12 @@
 
 <활동기록>
 
+<details>
+  <summary>0차 모임 (2024년 1월 3일) - OT</summary>
+  <img width="960" alt="0일차" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/4b7ffcf4-0b51-4225-90e7-c51445e6a82d"> 
+<img width="1421" alt="스크린샷 2024-01-03 오후 9 20 56" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/cfb4e814-d931-4b42-a3b1-33a3c13b631b">
+</details>
+
 0차 모임 (2024년 1월 3일) - OT
 
 <img width="960" alt="0일차" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/4b7ffcf4-0b51-4225-90e7-c51445e6a82d"> 
