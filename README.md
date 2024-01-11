@@ -16,7 +16,7 @@
 <img width="1421" alt="스크린샷 2024-01-03 오후 9 20 56" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/cfb4e814-d931-4b42-a3b1-33a3c13b631b">
 </details>
 
-1차 모임 (2024년 1월 11일)
+1차 모임 (2024년 1월 11일)<br/>
 이현제 - 모각소 1차모임 공부정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-1Spring-1
 
 2차 모임 (2024년 1월 14일)
