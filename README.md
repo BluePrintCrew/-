@@ -16,11 +16,15 @@
 </details>
 
 <details>
-<summary>1차 모임 (2024년 1월 11일)</summary><br/>
+<summary>1-1차 모임 (2024년 1월 11일)</summary><br/>
 <img width="939" alt="1 11" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/52283350-31fc-48d3-98d0-622476f6d7df"> 
-<img width="1440" alt="스크린샷 2024-01-14 오후 9 10 23" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/c3132818-083a-4f41-b5d2-1db43438a37c">
+
 이현제 -  스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-1Spring-1
-  
+</details>
+
+<details>
+<summary>1-2차 모임 (2024년 1월 14일)</summary><br/>
+  <img width="1440" alt="스크린샷 2024-01-14 오후 9 10 23" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/c3132818-083a-4f41-b5d2-1db43438a37c">
 </details>
 
 2차 모임 (2024년 1월 14일)
