@@ -28,7 +28,10 @@
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C
 </details>
 
-2-1차 모임 (2024년 1월 16일)
+<details>
+ <summary> 2-1차 모임 (2024년 1월 16일) </summary>
+</details>
+
 
 2-2차 모임 (2024년 1월 20일)
 
