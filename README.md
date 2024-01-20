@@ -18,7 +18,7 @@
 <details>
 <summary>1주차-1 모임 (2024년 1월 11일)</summary><br/>
 <img width="939" alt="1 11" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/52283350-31fc-48d3-98d0-622476f6d7df"> 
-
+<br/>
 이현제 -  스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-1Spring-1
 </details>
 
