@@ -30,12 +30,13 @@
 
 <details>
  <summary> 2주차-1 모임 (2024년 1월 16일) </summary>
+  이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-3java%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
 </details>
 
 
 2주차-2 모임 (2024년 1월 20일)
 
-이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-3java%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
+
 
 3주차-1 모임 (2024년 1월 16일) 
 
