@@ -19,7 +19,8 @@
 <summary>1주차-1 모임 (2024년 1월 11일)</summary><br/>
 <img width="939" alt="1 11" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/52283350-31fc-48d3-98d0-622476f6d7df"> 
 <br/>
-
+BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
+    <br/>
 이현제 -  스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-1Spring-1
 <br/>
 손영현 -  스터디정리 및 소감: https://development-diary-0h.tistory.com/4
@@ -39,8 +40,6 @@
 
  <summary> 2주차-1 모임 (2024년 1월 16일) </summary>
  <img width="951" alt="KakaoTalk_20240116_211240540" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/8454eecc-d4d6-415f-89b4-9f2167f88fdc">
-  <br/>
-BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
  <br/>
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-3java%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
 <br/>
