@@ -53,7 +53,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 <summary>2주차-2 모임 (2024년 1월 20일) </summary>
 <img width="1433" alt="2주차-2" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/a2f502b0-f882-4085-a118-c4534dca5441">
 <br/>
-
+이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-4
 </details>
 
 3주차-1 모임 (2024년 1월 16일) 
