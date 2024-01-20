@@ -30,6 +30,9 @@
 <img width="1440" alt="스크린샷 2024-01-14 오후 9 10 23" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/c3132818-083a-4f41-b5d2-1db43438a37c">
 <br/>
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C
+<br/>
+손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/6.
+<br/>
 </details>
 
 <details>
@@ -38,6 +41,9 @@
  <img width="951" alt="KakaoTalk_20240116_211240540" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/8454eecc-d4d6-415f-89b4-9f2167f88fdc">
  <br/>
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-3java%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
+<br/>
+손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/7
+<br/>
 </details>
 
 <details>
