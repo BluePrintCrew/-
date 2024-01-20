@@ -21,6 +21,7 @@
 <br/>
 
 이현제 -  스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-1Spring-1
+<br/>
 손영현 -  스터디정리 및 소감: https://development-diary-0h.tistory.com/4
 </details>
 
