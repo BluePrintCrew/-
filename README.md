@@ -29,7 +29,9 @@
 </details>
 
 <details>
+
  <summary> 2주차-1 모임 (2024년 1월 16일) </summary>
+ <img width="951" alt="KakaoTalk_20240116_211240540" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/8454eecc-d4d6-415f-89b4-9f2167f88fdc">
   이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-3java%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
 </details>
 
