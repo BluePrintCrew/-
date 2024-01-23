@@ -59,9 +59,11 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 손영현 - 스터디정리 및 소감 :  https://development-diary-0h.tistory.com/9
 <br/>
 </details>
+<details>
+<summary>3주차-1 모임 (2024년 1월 23일) </summary>
+  <img width="1435" alt="2024 01 23" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/4b52a5de-6834-4abf-a0db-71a6c025435a">
 
-3주차-1 모임 (2024년 1월 16일) 
-
+</details>
 4차 모임 (2024년 1월 23일)
 
 5차 모임 (2024년 2월 13일)
