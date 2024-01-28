@@ -24,9 +24,9 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
     <br/>
 이현제 -  스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-1Spring-1
 <br/>
-손영현 -  스터디정리 및 소감: https://development-diary-0h.tistory.com/4
+손영현 -  스터디정리 및 소감 : https://development-diary-0h.tistory.com/4
 <br/>
-정래혁 - https://raeogi.tistory.com/30
+정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/30
 </details>
 
 <details>
