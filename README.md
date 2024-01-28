@@ -72,7 +72,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 <details>
 <summary>3주차-2 모임 (2024년 1월 28일) </summary>
 <img width="1434" alt="스크린샷 2024-01-28 오후 11 02 00" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/32944fbd-b87d-43a7-a499-80d60cff666e">
-이현제 - 스터디 정리 및 소감 : [https://velog.io/write?id=a9704706-96c8-405e-835f-72bb40391afc](https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-6%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%EC%BA%94)https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-6%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%EC%BA%94
+이현제 - 스터디 정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-6%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%EC%BA%94
 </details>
 
 5차 모임 (2024년 2월 13일)
