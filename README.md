@@ -68,6 +68,10 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
   <img width="1435" alt="2024 01 23" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/4b52a5de-6834-4abf-a0db-71a6c025435a">
 
 </details>
-3주차-2 모임 (2024년 1월 28일)
+
+<details>
+<summary>3주차-2 모임 (2024년 1월 28일) </summary>
+  
+</details>
 
 5차 모임 (2024년 2월 13일)
