@@ -25,6 +25,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 이현제 -  스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-1Spring-1
 <br/>
 손영현 -  스터디정리 및 소감: https://development-diary-0h.tistory.com/4
+<br/>
+정래혁 - https://raeogi.tistory.com/30
 </details>
 
 <details>
@@ -35,6 +37,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 <br/>
 손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/6.
 <br/>
+정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/31
 </details>
 
 <details>
@@ -59,6 +62,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 손영현 - 스터디정리 및 소감 :  https://development-diary-0h.tistory.com/9
 <br/>
 </details>
+
 <details>
 <summary>3주차-1 모임 (2024년 1월 23일) </summary>
   <img width="1435" alt="2024 01 23" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/4b52a5de-6834-4abf-a0db-71a6c025435a">
