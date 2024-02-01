@@ -48,6 +48,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-3java%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
 <br/>
 손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/7
+<br/>
+정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/32
 
 
 <br/>
@@ -60,6 +62,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-4
 <br/>
 손영현 - 스터디정리 및 소감 :  https://development-diary-0h.tistory.com/9
+<br/>
+정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/33
 <br/>
 </details>
 
