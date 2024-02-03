@@ -71,6 +71,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 <summary>3주차-1 모임 (2024년 1월 23일) </summary>
   <img width="1435" alt="2024 01 23" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/142381040/4b52a5de-6834-4abf-a0db-71a6c025435a">
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-5%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88
+<br/>
 손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/11  
 </details>
 
@@ -78,12 +79,17 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 <summary>3주차-2 모임 (2024년 1월 28일) </summary>
 <img width="1434" alt="스크린샷 2024-01-28 오후 11 02 00" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/32944fbd-b87d-43a7-a499-80d60cff666e">
 이현제 - 스터디 정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-6%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%EC%BA%94
+  <br/>
+손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/12
 </details>
 
 <details>
   <summary>4주차-1 모임 (2024년 2월 1일) </summary>
   <img width="1435" alt="스크린샷 2024-02-01 오후 9 04 32" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/5c17045b-bcd2-4570-86c1-054871d836d4">
 이현제 - 스터디 정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-6%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9E%85#%EB%AA%A8%EA%B0%81%EC%86%8C-%EC%86%8C%EA%B0%90
+  <br/>
+손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/13
+   <br/>
 </details>
 
 5차 모임 (2024년 2월 13일)
