@@ -97,4 +97,11 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/36
 </details>
 
+<details>
+  <summary>4주차-2 모임 (2024년 2월 4일) </summary>
+  
+
+</details>
+
+
 5차 모임 (2024년 2월 13일)
