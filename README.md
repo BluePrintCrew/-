@@ -73,6 +73,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 이현제 - 스터디정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-5%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88
 <br/>
 손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/11  
+  <br/>
+정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/34
 </details>
 
 <details>
@@ -81,6 +83,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 이현제 - 스터디 정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-6%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%EC%BA%94
   <br/>
 손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/12
+  <br/>
+정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/35
 </details>
 
 <details>
@@ -90,6 +94,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
   <br/>
 손영현 - 스터디정리 및 소감 : https://development-diary-0h.tistory.com/13
    <br/>
+정래혁 - 스터디정리 및 소감 : https://raeogi.tistory.com/36
 </details>
 
 5차 모임 (2024년 2월 13일)
