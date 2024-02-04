@@ -99,6 +99,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 
 <details>
   <summary>4주차-2 모임 (2024년 2월 4일) </summary>
+  <img width="1434" alt="스크린샷 2024-02-04 오후 11 10 26" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/415e3822-f677-4062-aa55-8b76a9a9fb7d">
   
 
 </details>
