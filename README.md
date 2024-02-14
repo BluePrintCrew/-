@@ -110,3 +110,9 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
   <br/>
 </details>
 
+<details>
+<summary>6-1주차 모임 (2024년 2월 14일) </summary>
+ 
+  <br/>
+</details>
+
