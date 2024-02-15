@@ -102,6 +102,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
   <img width="1434" alt="스크린샷 2024-02-04 오후 11 10 26" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/415e3822-f677-4062-aa55-8b76a9a9fb7d">
 이현제 - 스터디 정리 및 소감 :https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-7%EB%91%90%EA%B0%9C-%EC%9D%B4%EC%83%81%EC%9D%98-%EB%B9%88-%EC%A1%B0%ED%9A%8C
   <br/>
+손영현 - 스터디 정리 및 소감 : https://development-diary-0h.tistory.com/14
+  <br/>
 </details>
 
 <details>
@@ -109,6 +111,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
   <img width="1440" alt="스크린샷 2024-02-11 오후 9 05 11" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/f8d35605-3832-4cbd-b333-195ce297b424">
 이현제 - 스터디 정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-8%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1
   <br/>
+손영현 - 스터디 정리 및 소감 : 
+      <br/>
 </details>
 
 <details>
@@ -116,5 +120,7 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
  <img width="1429" alt="스크린샷 2024-02-14 오후 11 09 45" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/b4290ad6-7273-4c45-b12f-0524b0624e7c">
 이현제 - 스터디 정리 및 소감 : https://velog.io/@guswp320/%EB%AA%A8%EA%B0%81%EC%86%8C-9%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EC%9D%B4%ED%95%B4
   <br/>
+손영현 - 스터디 정리 및 소감 : 
+      <br/>
 </details>
 
