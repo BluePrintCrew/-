@@ -126,6 +126,6 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
 
 <details>
 <summary>7주차 모임 (2024년 2월 20일) </summary>
-
+<img width="1425" alt="스크린샷 2024-02-20 오후 11 12 04" src="https://github.com/BluePrintCrew/2023winterMogakso/assets/106378321/01c99004-b704-4411-91db-34e7f755272a">
       <br/>
 </details>
