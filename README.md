@@ -126,6 +126,8 @@ BluePrintCrew 회의록: https://development-diary-0h.tistory.com/10
   <br/>
 손영현 - 스터디 정리 및 소감 : https://development-diary-0h.tistory.com/17
       <br/>
+정래혁 - 스터디 정리 및 소감 : https://raeogi.tistory.com/39
+  <br/>
 </details>
 
 <details>
